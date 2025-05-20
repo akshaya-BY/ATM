@@ -1,5 +1,5 @@
 
-
+// Addition of two numbers using Scanner class
 import java.util.Scanner;
 
 public class Addition_UI {
